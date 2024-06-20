@@ -1,0 +1,10 @@
+# Node modules
+package-lock.json
+node_modules/
+
+# Environment variables
+.env
+
+# Playwright specific
+playwright-report/
+test-results/
